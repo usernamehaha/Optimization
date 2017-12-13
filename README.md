@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Optimization
-=======
 ## 网站性能优化项目
 
 你要做的是尽可能优化这个在线项目的速度。注意，请应用你之前在[网站性能优化课程](https://cn.udacity.com/course/website-performance-optimization--ud884/)中学习的技术来优化关键渲染路径并使这个页面尽可能快的渲染。
@@ -58,4 +55,3 @@
 
 * <a href="http://getbootstrap.com/css/">Bootstrap CSS</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap组件</a>
->>>>>>> 性能优化
